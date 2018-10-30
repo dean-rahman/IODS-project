@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Dean Rahman"
 output:
   html_document:
     theme: cosmo
