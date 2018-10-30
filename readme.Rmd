@@ -1,0 +1,10 @@
+##
+Deleted all contents of the file
+And adding the following
+
+I am excited for this course.
+I do know R yet, but it looks as if this course will help me address this.
+
+My github repository is at 
+
+<https://github.com/dean-rahman/IODS-project>.
